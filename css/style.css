@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Tiny5+Duo:ital,wght@0,100..900;1,100..900&display=swap');
+p {
+    font-style: italic;
+       text-align: center;
+       font-size: 40px
+    }
+
+    p {
+font-style: italic;
+      text-align: center;
+      font-size: 40px
+    }
+
+    .button1 {
+        color: darkgoldenrod;
+font-size: 20px;
+display: block;
+margin: auto;
+background-color: black;
+background-size: cover;
+}
+
+.button2 {
+    color: goldenrod;
+font-size: 20px;
+display: block;
+margin: auto;
+background-color: black;
+background-size: cover;
+}
+
+.button3 {
+    color: goldenrod;
+font-size: 20px;
+display: block;
+margin: auto;
+background-color: black;
+background-size: cover;
+}
+
+.body {
+background-color: rgb(219, 146, 63);
+color: rgb(131, 47, 26);
+font-family:Audiowide;
+}
+
+.f1,.f2 {
+    text-align: center;
+}
+
+input[type="text"], input[type="email"], input[type="date"] {
+    padding: 0.5rem;
+    width: 40%;
+    border: 2px solid rgb(131, 47, 26);
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(219, 146, 63);
+}
+input[type="password"] {
+    width: 40%;
+    padding: 0.7rem;
+    border: 2px solid rgb(131, 47, 26);
+    box-sizing: border-box;
+    border-radius: 10px;
+    outline: none;
+    background-color: rgb(219, 146, 63)
+    }
+
+    select {
+        width: 20%;
+        padding: 0.7rem;
+        border: 2px solid rgb(131, 47, 26);
+        box-sizing: content-box;
+        outline: none;
+        border-radius: 10px;
+        background-color: rgb(219, 146, 63);
+        cursor: pointer;
+    }
+    textarea{
+        width: 350px;
+        border: 2px solid rgb(131, 47, 26) ;
+        outline: none;
+        border-radius: 10px;
+        background-color: rgb(219, 146, 63);
+    }
+
+    input::placeholder {
+        color: rgb(131, 47, 26);
+    }
+
+    input[type="checkbox"] {
+        border-radius: 10px;
+        background-color: rgb(219, 146, 63);
+    }
+    img {
+        width:40rem;
+        border-radius: 50px;
+        margin: 0%;
+    }
+    table{
+        width: 50%;
+        border-collapse: collapse;
+    }
+    th{
+        padding: 0.5rem;
+
+    }
+    td {
+    padding: 0.7rem
+    }
+
+    details{
+        border-color: rgb(131, 47, 26);
+    }
+    summary{
+        margin: 0.5rem;
+        padding: 0.5rem;
+        border-color: rgb(131, 47, 26);
+    }
+
+    ol {
+        margin-left: 1.5rem;
+    }
+    ol li{
+        padding: 0.4rem;
+    }
+    fieldset {
+        border-radius: 20px;
+        border-color: rgb(131, 47, 26);
+    }
+    .button9{
+        background-color: rgb(219, 146, 63);
+        border-color: rgb(131, 47, 26);
+        border-radius: 10px;
+        outline: none;
+    }
+input[type="file"]  {
+    border-color: rgb(219, 146, 63);
+    background-color: rgb(219, 146, 63);
+    border-radius: 10px;
+    outline: none;
+    padding: 1rem;
+}
+footer a {
+    color: rgb(131, 47, 26);
+    text-decoration: none;
+}

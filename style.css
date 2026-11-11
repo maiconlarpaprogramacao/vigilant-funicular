@@ -43,6 +43,7 @@ background-size: cover;
 background-color: rgb(219, 146, 63);
 color: rgb(131, 47, 26);
 font-family:Audiowide;
+    background-color:  red !important;
 }
 
 .f1,.f2 {
